@@ -1,0 +1,3 @@
+1. #NAME? has the highest missingness at 100.0%. Prioritize capture/validation to reduce data loss.
+2. Attended shows a decreasing trend over time (slope=-0.0040). Investigate seasonality and drivers.
+3. Segment 'Workshop' has the highest average Attended (0.42). Prioritize this segment for targeted actions.
